@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on "Weekly Wins"<br>👯 I'm currently looking for a 6 month internship<br>🌱 I'm currently learning SQL with PostgreSQL<br>⚡ Getting 1% better everyday<br>
+🔭 I'm currently working on "Weekly Wins"<br>👯 Looking for a 6 month internship<br>🌱  Learning SQL with PostgreSQL<br>⚡ Getting 1% better everyday<br>
 
 
 ## 🌐 Socials:
