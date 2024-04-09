@@ -9,7 +9,6 @@
 
 - 📫 How to reach me **ryan.horrmann.nl@gmail.com**
 
-- ⚡ Fun fact **Still trying to figure out, how to center a div**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
