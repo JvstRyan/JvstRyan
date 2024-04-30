@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **.NET Ecosystem**
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **React**
 
 - 📫 How to reach me **ryan.horrmann.nl@gmail.com**
 
