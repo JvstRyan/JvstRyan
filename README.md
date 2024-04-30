@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ryan Horrmann</h1>
 <h3 align="center">A passionate frontend developer from The Netherlands</h3>
 
-- 🔭 I’m currently working on **PlanIt & Enhance AI**
+- 🔭 I’m currently working on **PlanIt**
 
 - 🌱 I’m currently learning **.NET Ecosystem**
 
