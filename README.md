@@ -3,9 +3,7 @@
 
 - 🔭 I’m currently working on **Availi**
 
-- 🌱 I’m currently learning **.NET Ecosystem**
-
-- 💬 Ask me about **React**
+- 🌱 I’m currently learning more about the **.NET Ecosystem**
 
 - 📫 How to reach me **ryan.horrmann.nl@gmail.com**
 
